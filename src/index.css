@@ -5,8 +5,10 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    margin: 0 auto;
+html, body {
+   background: #04080f;
+   scroll-behavior: smooth;
+   color: white;
 }
 
 .btn-primary {
