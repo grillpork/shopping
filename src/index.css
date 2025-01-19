@@ -1,0 +1,16 @@
+/* Goggle Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0 auto;
+}
+
+.btn-primary {
+    padding: 0.5rem 1rem;
+    background: darkblue;
+    color: white;
+}
